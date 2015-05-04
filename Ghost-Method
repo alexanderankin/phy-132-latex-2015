@@ -1,0 +1,10 @@
+\det\begin{pmatrix}
+ a & b & c\\ 
+ d & e & f\\ 
+ g & h & i
+ \end{pmatrix} \Rightarrow 
+\left(\begin{array}{ccc|cc}
+ a & b & c & a & b \\ 
+ d & e & f & d & e \\ 
+ g & h & i & g & h 
+ \end{array}\right) \Rightarrow \\\\\\= (aei + bfg + cdh) - (ceg + afh + bdi)
