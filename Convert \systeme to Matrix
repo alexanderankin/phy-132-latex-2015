@@ -1,0 +1,13 @@
+\begin{align*} 
+I_1+ I_2 -I_3 &=  0 \\ 
+3I_1 + 4I_2 &=  10\\
+-4I_2 + 5I_3 &= 8
+\end{align*} 
+
+\Rightarrow 
+
+\left(\begin{array}{ccc|c}
+ 1 & 1 & -1 & 0 \\ 
+ 3 & 4 & 0 & 10 \\ 
+ 0 & -4 & 5 & 8 
+ \end{array}\right)
